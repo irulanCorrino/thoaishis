@@ -36,7 +36,7 @@
 - and i switched to it from a video by Dialect ['Logic at its Limit: The Grelling-Nelson Paradox'](https://youtu.be/U2l-Ty5yyU4)
 - and watching Jeffrey's lesson i have realised something chill --my native language and by Sapir-Worf hypothesis our mentality are totally unique --we do not fall victims of Russell's paradox!
 - i originate from Karhide, Gethen; this land is an analogue of Africa. actually all densely populated areas of Gethen are tropical latitudes, but Karhide is an origin of gethenian civilization [yes, i am an afrocentrist!].
-- our difference from human species in that we are ambivalent. if you do not realise how huge the gap between the species is --consider that we are completely incompatible genetically --no offspring could be conceived by a terranian and a gethenian. Sic.
+- our difference from human species is in that we are ambivalent. if you do not realise how huge the gap between the species is --consider that we are completely incompatible genetically --no offspring could be conceived by a terranian and a gethenian. Sic.
 
 - ##### github special repo
 - in my home world's github we do not have a concept of 'One-And-Only Special Repository' --our github allows us to maintain up to three special repositories on a profile page!
