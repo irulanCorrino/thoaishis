@@ -104,7 +104,7 @@
     - and the most important example for us today that is closely related to aforementioned group of <ins>'weaved words'</ins> and to whole structure of karhidish language and even to our today sub-subject of defeated Russel's paradox
       - 'thoaishis' ['tho-' ['if-'], 'aisha' ['hail'], '-is' ['-doubt'] => 'cluster', literally: 'if-hail-doubt']
       - <ins>'if a set does not contain itself then it cannot be put into the both categories of "containing itself" or "not containing itself" --it is put into the category of "doubtfully containing itself"'</ins>
-      - <ins>'if a predicate is not true about itself then it cannot be put into the both categories of "true about itself" or "not true about itself" --it is put into the category of "cluster?" --"doubted state" ["fuzzy" state]'</ins>
+      - <ins>'if a predicate is not true about itself then neither can it be put into category of "true about itself" nor of "not true about itself" --it is put into the category of "cluster?" --"doubted state" ["fuzzy" state]'</ins>
 
 
 <p align="center">
