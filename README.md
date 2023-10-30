@@ -11,7 +11,7 @@
     - [published in June 2022, she is Sunday, February 5th, 2023 now; not sure if i should expect a breakage with graphical iso, i have already performed it for my older first machine who gets overheated during my long working sessions and so is used mainly for 'Mypaint' & 'Thunderbird'];
   - say i do not like to clean up after messy software and currently linux cannot do that for me
     - [yet i am designing a bash script for removing artifacts created by discarded software pieces].
-- the encounter that chilled me up on creating this new repository even though i was a kinda shy of making this knowledge publy available was my recent watching youtube creators who have triggered a sense of uniqueness in me.
+- the encounter that chilled me up on creating this new repository even though i was a kinda shy of making this knowledge publicly available was my recent watching youtube creators who have triggered a sense of uniqueness in me.
 
 - ##### mentioning 'creators' i for certain do not mean people producing trash spamming youtube to stylelessness. no i do not have a respect for people like that guy posting on linux and FOSS matters that i have just run away from.
 <img align="right" width="33%" alt="Sexy-Nicki-Minaj-topless-selfies-4" title="casual wear --anything considerd inappropriate for more formal occasions" src="https://user-images.githubusercontent.com/98284211/216850274-adf0d5a0-5ed3-449e-9aca-18fb6818f9c2.jpg">
