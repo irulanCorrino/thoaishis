@@ -14,7 +14,7 @@
 - the encounter that chilled me up on creating this new repository even though i was a kinda shy of making this knowledge publicly available was my recent watching youtube creators who have triggered a sense of uniqueness in me.
 
 - ##### mentioning 'creators' i for certain do not mean people producing trash spamming youtube to stylelessness. no i do not have a respect for people like that guy posting on linux and FOSS matters that i have just run away from.
-<img align="right" width="33%" alt="Sexy-Nicki-Minaj-topless-selfies-4" title="casual wear --anything considerd inappropriate for more formal occasions" src="https://user-images.githubusercontent.com/98284211/216850274-adf0d5a0-5ed3-449e-9aca-18fb6818f9c2.jpg">
+<img align="right" width="33%" alt="Sexy-Nicki-Minaj-topless-selfies-4" title="casual wear --anything considerd inappropriate for more formal occasions [this photo is faked one indeed]" src="https://user-images.githubusercontent.com/98284211/216850274-adf0d5a0-5ed3-449e-9aca-18fb6818f9c2.jpg">
 
 - that guy slams linux and open source model under a hood of being linux enthusiast and FOSS extremist --he is derogary about 'protest distros' as he calls us [Artix] and fixed-release distro called Devuan. he says that we are 'systemd haters' and he embraces systemd himself explicitly telling he is 'against protest distros', repeating again and again that 'there is nothing special about "Ardex" [sic] --there are hundreds of Arch-based distros around and ONLY TWO DO DESERVE AN ATTENTION --Arco and Manjaro'; it is clearly seen from those videos:
   - distrotube 
