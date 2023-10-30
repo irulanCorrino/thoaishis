@@ -103,7 +103,7 @@
         - 'adgegeris' ['doubted‑world']
     - and the most important example for us today that is closely related to aforementioned group of <ins>'weaved words'</ins> and to whole structure of karhidish language and even to our today sub-subject of defeated Russel's paradox
       - 'thoaishis' ['tho-' ['if-'], 'aisha' ['hail'], '-is' ['-doubt'] => 'cluster', literally: 'if-hail-doubt']
-      - <ins>'if a set does not contain itself then it cannot be put into the both categories of "containing itself" or "not containing itself" --it is put into the category of "doubtfully containing itself"'</ins>
+      - <ins>'if a set does not contain itself then neither can it be put into category of "containing itself" nor of "not containing itself" --it is put into the category of "doubtfully containing itself"'</ins>
       - <ins>'if a predicate is not true about itself then neither can it be put into category of "true about itself" nor of "not true about itself" --it is put into the category of "cluster?" --"doubted state" ["fuzzy" state]'</ins>
 
 
