@@ -68,7 +68,7 @@
       - <ins>--an answer that goes before the question</ins> --'i crave for a flower' <ins>--and a question asked afterwards</ins> --'am i a form that is not a form?'
     - a very large group of words that exhibit an implication alongside a mutation (so-called <ins>'weaved words'</ins>);
     - an allusion[^1] category taken down [sic] to its extreme <ins>--if we do not comprehend a semantic value then we try to reinvent that value</ins> --'i rwa ji ur dethedetethe jair' [karh. 'curiousity'] (literally: 'one (that) follows bright(er) ripple (under) spring cloud (and) Sun');
-    - 'ise' [karh. 'doubt'] is used for distinctive category of these semantics that may be uncertainly treated as a 'fuzzier' gramatical number; it is not a matter of 'distinction between count category and mass category of words --'thoaishis' is the most prominent example
+    - 'ise' [karh. 'doubt'] is used for distinctive category of these semantics that may be uncertainly treated as a 'fuzzier' grammatical number; it is not a matter of 'distinction between count category and mass category of words --'thoaishis' is the most prominent example
       <img align="right" width="33%" alt="Nicki-Minaj-topless1" title="informal wear i.e. 'undress' --inside karhidish house" src="https://user-images.githubusercontent.com/98284211/216850424-ed46053e-6195-44a7-82fd-3efcb57007fc.jpg">
 
       - 'meshe' ['snow']
